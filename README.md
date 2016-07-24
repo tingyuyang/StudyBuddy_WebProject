@@ -1,2 +1,2 @@
-# StudyBuddy_WebProject
+# StudyBuddy
 Help the users to find a study body
