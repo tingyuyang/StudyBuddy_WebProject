@@ -1,0 +1,76 @@
+
+body, input, select, option, button, a {
+	color: orange;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14pt;
+}
+
+body, h1 {
+	margin: 0;
+	padding: 0;
+}
+
+#error {
+	color: red;
+}
+
+.headfoot {
+	background-color: black;
+	color: white;
+	padding: 0.5em;
+}
+
+h1 img {
+	float: left;
+	margin-right: 1em;
+}
+
+li {
+	margin-bottom: 0.5em;
+	width: 20em;
+}
+
+li form input[type="submit"] {
+	float: right;
+	margin-left: 1em;
+}
+
+#main {
+	 font-family: Verdana;
+
+	width:800px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom:500px;
+}
+
+#click{
+  font-family: Verdana;
+	width:800px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom:500px;
+
+}
+#book{
+    float:right;
+    margin-top:1px;
+}
+
+#banner{
+	color:orange;
+	font-family: Tahoma;
+    font-weight:bold;
+    height:50pt;
+    	text-align:center;
+
+}
+
+#button{
+	color:black;
+}
+ul li {
+    background-color: orange;
+    color: white;
+    padding: 10px 20px;
+}
