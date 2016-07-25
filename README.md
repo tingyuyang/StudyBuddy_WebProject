@@ -1,5 +1,5 @@
 # StudyBuddy
-Help the users to find a study body
+Help the users to find a study buddy
 ## Function Display:
 * User login page
 >
