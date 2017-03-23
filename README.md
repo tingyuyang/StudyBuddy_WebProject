@@ -1,4 +1,5 @@
 # StudyBuddy
+Self Practice
 Help the users to find a study buddy
 ## Function Display:
 * User login page
